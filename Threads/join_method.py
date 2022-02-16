@@ -24,5 +24,3 @@ if __name__ == '__main__':
     thread_1.join()
     thread_2.join()
     logging.info("Program ended, the threads has ended too....")
-
-
