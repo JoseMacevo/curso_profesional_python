@@ -1,6 +1,5 @@
 import time
 import logging
-import threading
 from concurrent.futures import ThreadPoolExecutor
 
 logging.basicConfig(level=logging.DEBUG,
